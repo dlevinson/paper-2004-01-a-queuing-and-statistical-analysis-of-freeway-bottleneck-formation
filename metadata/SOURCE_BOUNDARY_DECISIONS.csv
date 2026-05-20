@@ -1,0 +1,5 @@
+source_path,package_path,decision,reason
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/Shantanu Das - queueing/error_corr3.c,code/original/error_corr3.c,include_original,Primary detector-count calibration source matching the paper method.
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/Shantanu Das - queueing/error_corr3.c,code/modernized/error_corr3_c99.c,include_modernized_convenience_copy,Line endings normalized and entry point adjusted for modern compiler parsing; algorithm left intact.
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/Shantanu Das - queueing/error_corr_code.txt,,exclude_duplicate_text_copy,Text copy duplicates the same calibration source family and would create redundant upload clutter.
+"MnDOT I-94 detector observations, November 1-8 2000",,exclude_raw_source_data,Raw/derived detector data are not staged here; cite public/agency source context and paper tables.
