@@ -39,7 +39,7 @@ No further hard-drive search is open for this row. Final public release still ne
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:04:48 AEST
 
 - Pipeline: `READY-TO-UPLOAD/PUBLIC`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
