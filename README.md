@@ -1,5 +1,9 @@
 # A Queuing And Statistical Analysis Of Freeway Bottleneck Formation
 
+## Contribution
+
+This paper combines detector calibration, queuing analysis, and statistical tests to distinguish active freeway bottlenecks from congestion propagated upstream by downstream restrictions. Applied to Interstate 94, it shows that a section's bottleneck role changes over time and provides a method for estimating density and speed without assuming uniform effective vehicle length.
+
 ## Bibliographic Information
 
 - Row ID: `paper-2004-01`
