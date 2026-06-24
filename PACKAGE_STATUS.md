@@ -1,14 +1,14 @@
 # Package Status: A Queuing And Statistical Analysis Of Freeway Bottleneck Formation
 
-Generated: 2026-05-21 20:04:48 AEST
+Generated: 2026-06-23 AEST
 
 ## Audit State
 
 - Row ID: `paper-2004-01`
 - Pipeline: `UPLOADED`
 - Upload action: `code_only_candidate`
-- Packaging status: `candidate_package_after_readme_review`
-- Rights status: `likely_clear_with_provenance`
+- Packaging status: `mixed_license_recorded_for_public_release`
+- Rights status: `reviewed_public_code_boundary`
 - Controlled access status: `none`
 - Human subjects status: `no`
 - Bibliographic citation: Das, Shantanu, and Levinson, David M. (2004). A Queuing and Statistical Analysis of Freeway Bottleneck Formation. Journal of Transportation Engineering, 130(6), 787-795. https://doi.org/10.1061/(ASCE)0733-947X(2004)130:6(787)
@@ -26,4 +26,4 @@ Generated: 2026-05-21 20:04:48 AEST
 
 - Use `PACKAGE_MANIFEST.csv` as the upload checklist.
 - Treat files under `paper/` as local reference copies unless rights review explicitly clears them.
-- Confirm finality and license before repository creation.
+- Confirm the root license boundary before repository creation.

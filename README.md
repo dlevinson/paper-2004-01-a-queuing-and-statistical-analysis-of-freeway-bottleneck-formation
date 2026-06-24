@@ -38,7 +38,7 @@ Excluded from the upload payload: raw MnDOT detector observations, derived regre
 
 ## Remaining Work
 
-No further hard-drive search is open for this row. Final public release still needs the ordinary repository-level license decision for author-created code and a clear statement that ASCE/publisher rights apply to the paper PDF.
+No further hard-drive search is open for this row. The repository now carries a mixed root license for author-created code and documentation, while the paper PDF remains under ASCE/publisher terms.
 
 <!-- package-hardening-status:start -->
 ## Package Hardening Status
@@ -49,4 +49,5 @@ Generated: 2026-05-21 20:04:48 AEST
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Paper reference copies are for local audit convenience and are not public-upload assets without rights review.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
+- Root `LICENSE.md` records the boundary between MIT-licensed author-created code, CC BY 4.0 repository documentation, and the unrelabeled paper PDF.
 <!-- package-hardening-status:end -->
