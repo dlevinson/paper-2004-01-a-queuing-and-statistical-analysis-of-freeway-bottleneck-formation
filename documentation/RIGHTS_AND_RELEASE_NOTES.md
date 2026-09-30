@@ -1,7 +1,22 @@
 # Rights And Release Notes
 
-Updated: 2026-05-17 03:00:37 AEST
+Updated: 2026-09-28 AEST
 
-The staged code appears to be research-team-created detector-calibration source associated with Shantanu Das and David M. Levinson's freeway bottleneck paper. It contains no human-subject records or proprietary survey microdata. Raw MnDOT detector observations are public/agency context and are not copied into this package.
+The source is associated with Shantanu Das and David M. Levinson's freeway
+bottleneck paper, but both code headers specifically identify Shantanu Das
+as the programmer. Association with the research team does not establish
+David M. Levinson's sole ownership or licensing authority. The modernized
+copy retains the original program with only line-ending and entry-point
+changes; it has the same unresolved rights boundary.
 
-Before final public release, choose the repository license for the author-created code and retain the provenance note that the paper itself remains under ASCE/publisher terms.
+The repository audit found no assignment or permission establishing authority
+to apply MIT to either complete code file. Both are retained as provenance
+references pending rights clearance, not as cleared release assets. See
+`LICENSE_STATUS.md` for the evidence and `LICENSE.md` for the operative
+boundary. A copyright attribution alone is not a permission grant.
+
+The code contains no human-subject records or proprietary survey microdata.
+Raw MnDOT detector observations are not copied into this package and are not
+relicensed here. The paper remains subject to ASCE/publisher terms; its
+reference copy is not cleared for public upload or redistribution by this
+notice. The limited documentation grant does not cover the code or paper.
